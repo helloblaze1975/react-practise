@@ -1,0 +1,20 @@
+.name{
+    box-shadow: 0 0 10px;
+    background-color: rgb(188, 210, 210);
+    width: 140px;
+    margin:20px;
+}
+.delay{
+    box-shadow: 0 0 10px;
+    background-color: rgb(161, 178, 172);
+    width: 140px;
+    margin:20px;
+}
+#set-alarm{
+    margin:20px;
+}
+
+#output{
+    color:brown
+     
+}
